@@ -62,6 +62,11 @@
       "maxValue": 20.0,
       "types": ["gun_fixed"]
     },
+	  {
+      "pos": [2.07,-0.87,1.91],
+      "maxValue": 20.0,
+      "types": ["gun_fixed"]
+    },
     {
       "pos": [-0.02,0.0,0.03],
       "maxValue": 2.0,
